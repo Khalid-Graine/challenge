@@ -25,7 +25,7 @@
             <p class=" text-3xl font-bold">$29</p>
             <span class="text-sm text-primary-gray">per month</span>
           </div>
-         <p>for acces lorem ththt ehehe </p>
+         <p>Full access for less then 1$ a day  </p>
         </div>
         <button class="bg-primary-yellow py-2 rounded-md text-white font-bold">Sign up</button>
       </div>
