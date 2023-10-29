@@ -12,7 +12,7 @@ module.exports = {
       colors: {
         primary: {
           cyan: 'hsl(179, 62%, 43%)',
-          cyann: 'hsl(179, 62%, 70%)',
+          cyann: 'hsl(179, 62%, 60%)',
           yellow: 'hsl(71, 73%, 54%)',
           gray: ' hsl(204, 43%, 93%)',
           blue: 'hsl(218, 22%, 67%)'

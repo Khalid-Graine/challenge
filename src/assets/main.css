@@ -9,7 +9,7 @@
   box-sizing: content-box;
 }
 body {
-  background-color: gray;
+  background-color: rgba(128, 128, 128, 0.47);
 }
 .box {
   @apply  p-4 py-8
